@@ -66,7 +66,7 @@ npm install
 
 ### 4. Environment Configuration
 
-Create a file named `.env.local` in the root directory of your project and add the following environment variables according to your local setup:
+Create a file named `.env.local` in the root directory of your project and add the following environment variables according to your local  setup:
 
 ```env
 MONGODB_URI=mongodb://localhost:27017
