@@ -1,10 +1,10 @@
-# 🔗 URL Shortener
+#  URL Shortener
 
 A modern, fast, and user-friendly URL Shortener application built using Next.js, MongoDB, and Tailwind CSS. This application allows users to easily convert long, complex web links into short, customized URLs.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Custom Short Text:** Users can choose and set their preferred custom short URL text or slug (e.g., `ggl`) instead of a random string.
 - **Duplicate Slug Validation:** If a user tries to create a short link with a slug that already exists in the database, the system will prevent it and display a validation error message: *"ei name onno url ache"*.
@@ -13,7 +13,7 @@ A modern, fast, and user-friendly URL Shortener application built using Next.js,
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework:** Next.js (App Router)
 - **Database:** MongoDB
@@ -22,7 +22,7 @@ A modern, fast, and user-friendly URL Shortener application built using Next.js,
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 Link-Shortner/
@@ -41,7 +41,7 @@ Link-Shortner/
 └── package.json                 # Project dependencies and scripts
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to set up and run the project locally on your machine:
 
@@ -83,7 +83,7 @@ npm run dev
 
 Once the server starts successfully, open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view and use the application.
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Main UI / Dashboard
 
