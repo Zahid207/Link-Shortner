@@ -89,11 +89,11 @@ Once the server starts successfully, open your browser and navigate to [http://l
 
 The primary user interface where users input the original URL and the preferred custom short text.
 
-![Main UI Dashboard](example_1.png)
+![Main UI Dashboard](https://github.com/Zahid207/Link-Shortner/blob/main/screenshoot/example_2.png)
 
 ### Generated Short URL Output
 
 Displays the successfully generated short URL that users can click or copy.
 
-![Generated Short URL Output](example_2.png)
+![Generated Short URL Output](https://github.com/Zahid207/Link-Shortner/blob/main/screenshoot/example_1.png)
 """
