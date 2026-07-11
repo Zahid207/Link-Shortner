@@ -97,3 +97,9 @@ Displays the successfully generated short URL that users can click or copy.
 
 ![Generated Short URL Output](https://github.com/Zahid207/Link-Shortner/blob/main/screenshoot/example_1.png)
 
+
+---
+
+<p align="center">
+  <sub>Made with a lot of ❤️ Love and Care 😊 by <strong>Zahidul</strong></sub>
+</p>
