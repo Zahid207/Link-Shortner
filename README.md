@@ -83,3 +83,17 @@ npm run dev
 
 Once the server starts successfully, open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view and use the application.
 
+## 📸 Screenshots
+
+### Main UI / Dashboard
+
+The primary user interface where users input the original URL and the preferred custom short text.
+
+![Main UI Dashboard](example_1.png)
+
+### Generated Short URL Output
+
+Displays the successfully generated short URL that users can click or copy.
+
+![Generated Short URL Output](example_2.png)
+"""
